@@ -1,0 +1,12 @@
+flask
+flask-sock
+langchain
+requests
+numpy
+python-dotenv
+chromadb
+langchain_openai
+langchain_community
+langchain_core
+langgraph
+flask-cors
